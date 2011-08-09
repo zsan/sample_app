@@ -1,0 +1,5 @@
+#!/usr/bin/ruby
+#require 'redgreen'
+require 'autotest/timestamp'
+
+
